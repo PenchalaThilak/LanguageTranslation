@@ -1,28 +1,18 @@
-# 🌍 **Language Translation App**  
+🌍 Language Translation App
+A powerful and interactive language translation app built using Gradio, GoogleTranslator, and gTTS.
 
-A powerful and interactive language translation app built using **Gradio, GoogleTranslator, and gTTS**.  
-This app translates text into multiple languages and even provides **audio output** for supported languages.  
+This app translates text into multiple languages and even provides audio output for supported languages.
 
----
+✨ Features
+✔️ Translate text into multiple languages
+✔️ Automatically detects the input language
+✔️ Text-to-Speech (TTS) support for selected languages
+✔️ User-friendly Gradio interface
+🚀 Live Demo
+🔗 Try the Language Translation App Here!
 
-## ✨ **Features**  
-
-✔️ Translate text into **multiple languages**  
-✔️ Automatically detects the input language  
-✔️ **Text-to-Speech (TTS)** support for selected languages  
-✔️ User-friendly **Gradio** interface  
-
----
-
-## 🚀 **Live Demo**  
-
-🔗 **[Try the Language Translation App Here!](https://huggingface.co/spaces/Thilak118/LanguageTranslation)**  
-
----
-
-## 🛠️ **How It Works?**  
-
-🔹 Enter the text you want to translate  
-🔹 Select the target language from the dropdown  
-🔹 Click **"Submit"** to get the translated text  
-🔹 If the selected language supports speech, an **audio player** will appear to listen to the translation  
+🛠️ How It Works
+🔹 Enter the text you want to translate
+🔹 Select the target language from the dropdown
+🔹 Click "Submit" to get the translated text
+🔹 If the selected language supports speech, an audio player will appear to listen to the translation
