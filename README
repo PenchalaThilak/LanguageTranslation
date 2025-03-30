@@ -1,12 +1,30 @@
-Description:
-This is a Gradio-based Language Translation App that translates text into different languages and provides speech output for supported languages. It uses Google Translator API for translation and gTTS (Google Text-to-Speech) for speech synthesis.
+ Language Translation App
+🚀 A simple and interactive language translation app built with Gradio, Google Translator API, and gTTS for speech synthesis.
 
-Features:
+Live Link :"https://huggingface.co/spaces/Thilak118/LanguageTranslation"
 
-Translate text into multiple languages
+✨ Features
+✅ Translate text into multiple languages
+✅ Auto-detect input language
+✅ Generate speech output for supported languages
+✅ User-friendly interface with Gradio
 
-Detect the input language automatically
+🚀 Deploying on Hugging Face Spaces
+1️⃣ Create a new Hugging Face Space
+2️⃣ Set SDK type to Gradio
+3️⃣ Upload app.py, requirements.txt, and language.csv
+4️⃣ Run the app and make your Space public
 
-Generate speech output for supported languages
+🎯 How to Use
+1️⃣ Enter the text you want to translate
+2️⃣ Select the target language
+3️⃣ Click Translate
+4️⃣ Listen to the translated speech output (if supported)
 
-Simple and user-friendly UI using Gradio
+🛠️ Technologies Used
+🔹 Python
+🔹 Gradio (UI framework)
+🔹 Google Translator API (Translation)
+🔹 gTTS (Text-to-Speech)
+🔹 Pandas (Data Handling)
+
