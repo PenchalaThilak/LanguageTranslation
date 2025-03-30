@@ -1,0 +1,12 @@
+Description:
+This is a Gradio-based Language Translation App that translates text into different languages and provides speech output for supported languages. It uses Google Translator API for translation and gTTS (Google Text-to-Speech) for speech synthesis.
+
+Features:
+
+Translate text into multiple languages
+
+Detect the input language automatically
+
+Generate speech output for supported languages
+
+Simple and user-friendly UI using Gradio
